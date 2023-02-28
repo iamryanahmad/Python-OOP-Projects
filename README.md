@@ -1,1 +1,1 @@
-# Python-OOP-Projects
+Python code for a menu driven OOP mensuration class. Copy the code and create an object to calculate basic standard mensuration (area, perimeter, volume) of different shapes as displayed in the menu. You can also read description (formula and defination) of the concept in the section. Happy learning!
